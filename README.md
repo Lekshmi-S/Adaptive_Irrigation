@@ -20,7 +20,7 @@ Key features of the project include:
 ## Project Working  
 
 1. **Data Collection**  
-   - Sensor data (e.g., soil moisture, temperature, and humidity) is transmitted to the cloud using NodeMCU.  
+   - Sensor data (e.g., soil moisture and temperature) is taken externally.  
 2. **Machine Learning Models**  
    - **Random Forest** and **Gradient Boosting** algorithms are trained and evaluated on the same dataset.  
    - The best-performing model is used for predicting water requirements.  
@@ -33,23 +33,17 @@ Key features of the project include:
 
 ### Backend  
 - **Machine Learning:** Python (Gradient Boosting, Random Forest using scikit-learn)  
-- **Database:** Firebase for storing sensor and historical data  
-- **APIs:** RESTful APIs for sensor data retrieval and prediction  
+- **Database:** Firebase for storing sensor and historical data 
 
 ### Frontend  
 - **Streamlit** for interactive dashboards  
-
-### Hardware  
-- **NodeMCU** for sensor data collection  
 
 ---
 
 ## Installation Guide  
 
 ### Prerequisites  
-- Python 3.7+  
-- Firebase account (for database integration)  
-- NodeMCU (configured with sensors)  
+- Python 3.7+  libraries
 
 ### Steps to Run  
 
@@ -76,9 +70,5 @@ Key features of the project include:
    ```bash  
    streamlit run app.py  
    ```  
-
-6. **Connect Hardware**  
-   - Deploy the NodeMCU script for sensor data transmission.  
-
 ## License  
 [MIT License](LICENSE)  
