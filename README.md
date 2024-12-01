@@ -86,15 +86,5 @@ Key features of the project include:
 6. **Connect Hardware**  
    - Deploy the NodeMCU script for sensor data transmission.  
 
----
-
-## Contributors  
-- **Frontend Development:** [Your Name]  
-- **Machine Learning:** [Your Name]  
-- **Backend Development:** [Your Name]  
-- **Hardware Integration:** [Your Friend's Name]  
-
----
-
 ## License  
 [MIT License](LICENSE)  
