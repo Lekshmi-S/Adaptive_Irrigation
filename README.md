@@ -29,12 +29,6 @@ Key features of the project include:
    - Allows users to input parameters and view predictions.  
 4. **Irrigation Recommendations**  
    - Provides precise water usage recommendations to minimize wastage.  
-
-![Prediction Example](link-to-your-image)  
-*[Insert a GIF/video link showcasing the dashboard in action.]*  
-
----
-
 ## Tech Stack  
 
 ### Backend  
