@@ -28,7 +28,10 @@ Key features of the project include:
    - Displays sensor data analysis.  
    - Allows users to input parameters and view predictions.  
 4. **Irrigation Recommendations**  
-   - Provides precise water usage recommendations to minimize wastage.  
+   - Provides precise water usage recommendations to minimize wastage.
+
+   ![Uploading WhatsApp Image 2024-12-01 at 18.37.49_e5976de1.jpg…]()
+
 ## Tech Stack  
 
 ### Backend  
